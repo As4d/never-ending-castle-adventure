@@ -1,6 +1,5 @@
 /* ***************************************
   @author    Asad Ali Khan
-  @SID       220257466
   @version   1
 
     Explore the never ending castle - game
